@@ -19,7 +19,8 @@
 [2020 HertzMuse - Spectral analysis and notes detection](https://github.com/GoldenWeiss/HertzMuse)
 <img src="images/S4.png?raw=false"/>
 
-[2021 Glo 2004 - A little bit of 3D in Java swing (no libraries)]
+2021 Glo 2004 - A little bit of 3D in Java swing (no libraries)<br />
+In the end, my teammates opted for 2D.
 <img src="images/S5.PNG?raw=false"/>
 ---
 
