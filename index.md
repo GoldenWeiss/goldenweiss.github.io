@@ -13,7 +13,7 @@
 
 ---
 [2020 Graphes of Adelbert](https://github.com/GoldenWeiss/Graphes-of-Adelbert)
-<img src="images/unknown.png?raw=false"/>
+<img src="images/S2.png?raw=false"/>
 
 ---
 [2020 HertzMuse - Spectral analysis and notes detection](https://github.com/GoldenWeiss/HertzMuse)
