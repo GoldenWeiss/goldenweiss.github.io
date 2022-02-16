@@ -5,19 +5,19 @@
 ### Screenshots
 
 [2017 Nouka - Ruby/Gosu RPG game](https://github.com/GoldenWeiss/Nouka)
-<img src="images/S1.png?raw=true"/>
+<img src="images/S1.png?raw=false"/>
 
 ---
 [2019 Naive AI Rubik's Solver (depth 5)](https://github.com/GoldenWeiss/Rubik-s-Solver)
-<img src="images/S3.png?raw=true"/>
+<img src="images/S3.png?raw=false"/>
 
 ---
 [2020 Graphes of Adelbert](https://github.com/GoldenWeiss/Graphes-of-Adelbert)
-<img src="images/unknown.png?raw=true"/>
+<img src="images/unknown.png?raw=false"/>
 
 ---
 [2020 HertzMuse - Spectral analysis and notes detection](https://github.com/GoldenWeiss/HertzMuse)
-<img src="images/S4.png?raw=true"/>
+<img src="images/S4.png?raw=false"/>
 
 ---
 
