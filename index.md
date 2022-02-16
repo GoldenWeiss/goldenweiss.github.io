@@ -2,34 +2,35 @@
 
 ---
 
-### Category Name 1 
+### Screenshots
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Nouka - Ruby/Gosu RPG game](https://github.com/GoldenWeiss/Nouka)
+<img src="images/S1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Graphes of Adelbert](https://github.com/GoldenWeiss/Graphes-of-Adelbert)
+<img src="images/unknown.png?raw=true"/>
 
 ---
+[Naive AI Rubik's Solver (depth 5)](https://github.com/GoldenWeiss/Rubik-s-Solver)
+<img src="images/S3.png?raw=true"/>
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+[HertzMuse - Spectral Analysis and notes detection](https://github.com/GoldenWeiss/HertzMuse)
+<img src="images/S4.png?raw=true"/>
 
 ---
 
+### Links
+
+- [Nouka - Ruby/Gosu RPG game](https://github.com/GoldenWeiss/Nouka)
+- [Graphes of Adelbert](https://github.com/GoldenWeiss/Graphes-of-Adelbert)
+- [Naive AI Rubik's Solver (depth 5)](https://github.com/GoldenWeiss/Rubik-s-Solver)
+- [HertzMuse - Spectral Analysis and notes detection](https://github.com/GoldenWeiss/HertzMuse)
+
+---
+
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
