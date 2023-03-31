@@ -3,7 +3,7 @@
 ---
 
 ### Screenshots
-
+[2022 Stagiaire développeur Full Stack DTI](https://github.com/GoldenWeiss/goldenweiss.github.io/blob/master/pdf/Stage%20en%20g%C3%A9nie%20logiciel%201.pdf)
 [2017 Nouka - Ruby/Gosu RPG game](https://github.com/GoldenWeiss/Nouka)
 <img src="images/S1.png?raw=false"/>
 
