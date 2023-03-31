@@ -34,7 +34,8 @@ In the end, my teammates opted for 2D.
 - [2019 Graphes of Adelbert](https://github.com/GoldenWeiss/Graphes-of-Adelbert)
 - [2020 Naive AI Rubik's Solver (depth 5)](https://github.com/GoldenWeiss/Rubik-s-Solver)
 - [2020 HertzMuse - Spectral Analysis and notes detection](https://github.com/GoldenWeiss/HertzMuse)
-
+- [2022 Stagiaire développeur Full Stack DTI](https://github.com/GoldenWeiss/goldenweiss.github.io/blob/master/pdf/Stage%20en%20g%C3%A9nie%20logiciel%201.pdf) 
+:: [Présentation](https://docs.google.com/presentation/d/1iq6qySutxyfpAaSflyBmlERaI777bopw/edit?usp=sharing&ouid=113323328293758059149&rtpof=true&sd=true)
 ---
 
 
