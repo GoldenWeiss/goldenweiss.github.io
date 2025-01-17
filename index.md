@@ -3,6 +3,10 @@
 ---
 
 ### Screenshots
+[2024 Stagiaire en automatisation - Log loading and detection Python/C++](https://github.com/GoldenWeiss/goldenweiss.github.io/blob/master/pdf/Stage%20en%20g%C3%A9nie%20logiciel%201.pdf) 
+:: [Présentation](https://docs.google.com/presentation/d/1iq6qySutxyfpAaSflyBmlERaI777bopw/edit?usp=sharing&ouid=113323328293758059149&rtpof=true&sd=true)
+<img src="images/S7.png?raw=false"/>
+
 [2022 Stagiaire développeur Full Stack DTI](https://github.com/GoldenWeiss/goldenweiss.github.io/blob/master/pdf/Stage%20en%20g%C3%A9nie%20logiciel%201.pdf) 
 :: [Présentation](https://docs.google.com/presentation/d/1iq6qySutxyfpAaSflyBmlERaI777bopw/edit?usp=sharing&ouid=113323328293758059149&rtpof=true&sd=true)
 <img src="images/S6.png?raw=false"/>
