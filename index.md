@@ -9,7 +9,10 @@
 
 [2024 GLO 3002 - Projet en génie logiciel pour Sokio Industrie]
 
-https://github.com/user-attachments/assets/a60160bb-9312-42a7-a3b6-e1657bfd8355
+<video width="600" controls>
+  <source src="images/S8.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 [2022 Stagiaire développeur Full Stack DTI](https://github.com/GoldenWeiss/goldenweiss.github.io/blob/master/pdf/Stage%20en%20g%C3%A9nie%20logiciel%201.pdf) 
