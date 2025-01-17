@@ -8,6 +8,7 @@
 <img src="images/S7.png?raw=false"/>
 
 [2024 GLO 3002 - Projet en génie logiciel pour Sokio Industrie]
+
 https://github.com/user-attachments/assets/a60160bb-9312-42a7-a3b6-e1657bfd8355
 
 
