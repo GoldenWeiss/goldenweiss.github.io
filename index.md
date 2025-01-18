@@ -7,7 +7,7 @@
 :: [Présentation](https://github.com/GoldenWeiss/goldenweiss.github.io/blob/master/pdf/Affiche%20billes.pdf)
 <img src="images/S7.png?raw=false"/>
 
-[2024 GLO 3002 - Projet en génie logiciel pour Sokio Industrie]
+[2024 GLO 3002 - Projet en génie logiciel pour Sokio Industrie C# MySQL Backend + Vue]
 
 <video width="600" controls>
   <source src="images/S8.mp4" type="video/mp4">
