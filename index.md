@@ -5,10 +5,7 @@
 ### Screenshots
 [2025 Vision numérique - Reconstruction 3D par projection de franges Python/OpenCV]
 
-<video width="600" controls>
-  <source src="images/S9.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RisHZY46Y0o" frameborder="0" allowfullscreen></iframe>
 
 [2024 Stagiaire en automatisation - Log loading and detection Python/C++](https://github.com/GoldenWeiss/goldenweiss.github.io/blob/master/pdf/Stage%20en%20g%C3%A9nie%20logiciel%202.pdf) 
 :: [Présentation](https://github.com/GoldenWeiss/goldenweiss.github.io/blob/master/pdf/Affiche%20billes.pdf)
