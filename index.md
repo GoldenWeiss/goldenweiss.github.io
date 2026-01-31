@@ -4,7 +4,7 @@
 
 ### Screenshots
 
-[2025%20Apprentissage%20machine%20-%20Analyse%20de%20risque%20financier%20et%20dérive%20de%20modèle]
+[2025 Apprentissage machine - Analyse de risque financier et dérive de modèle]
 :: [Présentation](https://github.com/GoldenWeiss/goldenweiss.github.io/blob/master/pdf/GIF-7005%20-Equipe%2012%20-%20Affiche.pdf)
 <img src="images/S9.png?raw=false"/>
 
