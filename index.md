@@ -5,7 +5,7 @@
 ### Screenshots
 
 [2025 Apprentissage machine - Analyse de risque financier et dérive de modèle]
-:: [Présentation](https://github.com/GoldenWeiss/goldenweiss.github.io/blob/master/pdf/GIF-7005%20-Equipe%2012%20-%20Affiche.pdf)
+:: [Présentation](https://github.com/GoldenWeiss/goldenweiss.github.io/blob/master/pdf/GIF-7005%20-%20Equipe%2012%20-%20Affiche.pdf)
 <img src="images/S9.png?raw=false"/>
 
 [2025 Vision numérique - Reconstruction 3D par projection de franges Python/OpenCV]
